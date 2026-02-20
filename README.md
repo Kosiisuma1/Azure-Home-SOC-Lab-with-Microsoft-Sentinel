@@ -112,7 +112,7 @@ This lab reinforces the importance of:
 
 ---
 
-## 📷 Screenshots (Optional Section)
+## 📷 Screenshots 
 
 Add screenshots here of:
 - Azure VM configuration
