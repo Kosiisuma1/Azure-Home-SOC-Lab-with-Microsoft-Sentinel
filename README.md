@@ -75,6 +75,17 @@ The dashboard dynamically updates as new logs are ingested, simulating real-time
 
 ---
 
+## 📷 Screenshots
+
+### 🌍 Global Attack Map
+![Global Attack Map](images/attack-map.png)
+
+### 🔐 Failed Login Attempts
+![Failed Login Attempts](images/failed-logins.png)
+
+### 📊 Sentinel Dashboard
+![Sentinel Dashboard](images/sentinel-dashboard.png)
+
 ## 📈 Observations
 
 - Attack attempts began within minutes of exposing the VM.
@@ -109,22 +120,6 @@ This lab reinforces the importance of:
 - Integrate additional threat intelligence feeds
 - Apply VM hardening and security controls
 - Simulate additional attack scenarios
-
----
-
-## 📷 Screenshots 
-
-Add screenshots here of:
-- Azure VM configuration
-- Sentinel log query results
-- Workbook global attack map
-- Attack trend charts
-
-Example:
-
-```
-![Global Attack Map](images/attack-map.png)
-```
 
 ---
 
