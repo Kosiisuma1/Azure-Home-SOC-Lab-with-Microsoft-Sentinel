@@ -81,10 +81,10 @@ The dashboard dynamically updates as new logs are ingested, simulating real-time
 ![VM Creation](images/VM_creation.png)
 
 ### 💻 VM Display
-![VM Display](images/VM_display.png)
+![VM Display](images/VM_Display.png)
 
 ### 📡 VM Ping Test
-![VM Ping Test](images/VM_ping.png)
+![VM Ping Test](images/VM_Ping.png)
 
 ### 🌍 Global Attack Map
 ![Global Attack Map](images/attack-map.png)
