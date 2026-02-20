@@ -78,7 +78,7 @@ The dashboard dynamically updates as new logs are ingested, simulating real-time
 ## 📷 Screenshots
 
 ### 🖥️ VM Creation
-![VM Creation](images/vm_creation.png)
+![VM Creation](images/VM_Creation.png)
 
 ### 💻 VM Display
 ![VM Display](images/VM_Display.png)
